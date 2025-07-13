@@ -1,4 +1,4 @@
-# 🚗 Insurance Claims Analysis Dashboard – Power BI
+#  Insurance Claims Analysis Dashboard – Power BI
 
 This repository showcases an interactive Power BI dashboard built to analyze 58,000+ motor insurance policies. The goal is to identify key factors influencing claim rates, highlight risk profiles, and support data-driven decisions in insurance operations.
 
@@ -18,7 +18,7 @@ This repository showcases an interactive Power BI dashboard built to analyze 58,
 
 ## 📁 Files
 
-- `insurance.pbix` – Power BI dashboard file  
+- `insurance claim dashboard.pbix` – Power BI dashboard file  
 - `README.md` – This documentation file
 
 ## 🛠️ Tools Used
@@ -27,12 +27,5 @@ This repository showcases an interactive Power BI dashboard built to analyze 58,
 - Power Query (Data cleaning & transformation)  
 - DAX (Measure creation & KPIs)
 
-## 📌 How to Use
 
-1. Open `insurance.pbix` using Power BI Desktop.
-2. Explore the dashboard using the provided filters (Fuel Type, Segment, Region, etc.).
-3. Modify or extend visuals as needed for further exploration.
 
-## 📃 License
-
-This project is open for learning, demo, and portfolio use.
